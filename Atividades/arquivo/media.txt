@@ -1,0 +1,8 @@
+Media 	 Estado de rendimento 
+---------------------------
+8.5	 AP 
+6.3	 RP
+6.5	 RP
+2.5	 RP
+8.0	 AP 
+9.8	 AP 
