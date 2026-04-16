@@ -4,7 +4,7 @@ e calcular a média e gerar outro arquivo com as
 médias e com a sinalização se o aluno foi aprovado
 ou reprovado.
 
-- Código feito dia 13/04/2026
+- Código feito dia 15/04/2026
 */
 #include <stdio.h>
 #include <stdlib.h>
