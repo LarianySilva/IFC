@@ -4,7 +4,7 @@ tabuada de oma e multiplicação por 5,
 onde será gerado um arquivo com a tabela dessas duas tabuadas
 podendo ser um .txt ou .dat.
 
--Código feito 13/04/2026
+-Código feito 15/04/2026
 */
 #include <stdio.h>
 #include <stdlib.h>
