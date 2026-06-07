@@ -39,7 +39,7 @@ int main(){
 			soma[i][j]= A[i][j] + B[i][j];//realiza a soma de matrizes
 		}
 	}
-	printf("Resultado da soma de matrizes:\n")
+	printf("Resultado da soma de matrizes:\n");
 	//exibição do resultado
 	for(i=0;i<3;i++){
 		for(j=0;j<3;j++){
