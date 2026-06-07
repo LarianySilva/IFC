@@ -8,6 +8,7 @@ dessa matriz.
 
 #include <stdio.h>
 #include <stdlib.h>
+//protótipo da função do cálculo da diagonal
 
 int DIAGONAL(int A[4][4]);
 
