@@ -33,6 +33,6 @@ O desenvolvimento das atividades segue um fluxo prático de três etapas:
 Para compilar o código em C vinculando a biblioteca matemática (`-lm`):
 
 ```bash
-nome_arquivo.c -o nome_executavel.out (compilação do arquivo)
+gcc nome_arquivo.c -o nome_executavel.out (compilação do arquivo)
 ./nome_executavel (executar o programa do arquivo)
 
